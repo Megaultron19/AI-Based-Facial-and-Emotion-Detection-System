@@ -79,7 +79,7 @@ Not intended for production
 
 No biometric data stored or transmitted
 
-👨‍💻 Author
+👨‍💻 Authors
 
 Harshit Singh
 GitHub: Megaultron19
