@@ -84,3 +84,7 @@ No biometric data stored or transmitted
 Harshit Singh
 GitHub: Megaultron19
 Email: harshitkatiyar2003@gmail.com
+
+Aditya Rungta
+Github: adityarungta2048
+Email: adityarungta2048@gmail.com
